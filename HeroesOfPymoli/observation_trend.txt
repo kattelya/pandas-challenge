@@ -1,0 +1,12 @@
+	First observation can be made from the gender demographic table and purchasing analysis table. 
+From gender demographic table, we can see that 84.03% of the company revenue gain is from on male population. 
+The purchasing analysis table could help the company marketing strategist to target their market and make game change or improvement to attract more female and other/non-disclosed. 
+
+	The breakdown based on age demographics are also very useful to see which group range incline to spend their time playing games. 
+Our data top observation quickly show us that 44.79% of our gamers are in the age range between 20-24. 
+Furthermore, based on our purchasing analysis by age group our target market are people in between the age of 15 to 34. 
+Although the company didn't gain much profit from people in age ranges 30-39, the people in this range willing to pay for more expensive cost game with average purchase price $3.60. 
+The top spender column quickly tells us who is our loyal customer and how many game this person had purchased.
+Eventhough "Lisosia93" is our top item# purchaser, we can see that "Idastidru52" buy more expensive game that this client average purchase is higher than our top purchase count customer. 
+
+	From the most popular items table, we can see that "Oathbreaker, Last Hope of the Breaking Storm" is our top gamer purchase. Overall, the table give quick visualization for game developer to grasp the market. 
